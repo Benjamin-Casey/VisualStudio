@@ -7,7 +7,7 @@ int doubleNumber(int x)
 
 int main()
 {
-	std::cout << "Enter an integer: " << std::endl;
+	std::cout << "Enter an integer: ";
 	int x;
 	std::cin >> x;
 	std::cout << "This is double your number: ";
