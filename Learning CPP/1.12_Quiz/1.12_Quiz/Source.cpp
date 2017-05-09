@@ -4,6 +4,8 @@
 int main()
 {
 	int x = readNumber();
-	writeAnswer(x);
+	int y = readNumber();
+	int z = x + y;
+	writeAnswer(z);
 	return 0;
 }
