@@ -28,10 +28,6 @@ Every monster will have:
  - Difficulty
  - Abilities
 
-Possible features:
- - Darkness (Vision)
- - Pets
-
 Rooms have:
  - Difficulty
  - Loot (sometimes none) based off of item rarity + room difficulty.
