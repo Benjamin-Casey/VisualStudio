@@ -1,0 +1,45 @@
+Multiplayer?
+Dungeon run style game. Player selects a class and then procede through a randomly generated dungeon taht contains a number of mosters and loot.
+
+Each playuer has:
+ - Gold to purchase items between dungeons
+ - Weapons and armor
+ - XP
+ - SKills
+ - Level
+ - HP
+ - Dex
+ - Strength
+ - Int
+ - Initiative (Based off of Dex)
+
+Items the player can collect:
+ - Potions
+ - Weapons and Armor
+ - Scrolls
+ - Food
+ - Gems to be placed into weapons?
+
+Series of monsters that have a difficulty rating. In rooms that are classified as easy, mosters with an easier difficulty will be placed in easier rooms.
+
+Every monster will have:
+ - HP
+ - Atk
+ - Difficulty
+ - Abilities
+
+Possible features:
+ - Darkness (Vision)
+ - Pets
+
+Rooms have:
+ - Difficulty
+ - Loot (sometimes none) based off of item rarity + room difficulty.
+
+Shopkeeper (appears between dungeons) has:
+ - Random selection of weapons that are equal to, +1, or -x the players level (where x is the players level).
+
+Weapons, potions, food, scrolls have:
+ - Gold value
+ - Value (atk damage, health restored/stat boost/effect, etc.)
+ - Rarity
